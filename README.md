@@ -43,7 +43,7 @@ OpenAI의 GPT 모델을 활용하여 다양한 텍스트 변환 및 분석 기�
 ## 로컬 환경에서 실행하기
 
 ```bash
-!git clone https://github.com/jh941213/blog_service.git
-cd blog
+!git clone https://github.com/wiznetmaker/GPT_maker.git
+cd gptmaker
 pip install -r requirements.txt
 streamlit run app.py
