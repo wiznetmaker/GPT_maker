@@ -47,3 +47,10 @@ OpenAI의 GPT 모델을 활용하여 다양한 텍스트 변환 및 분석 기�
 cd gptmaker
 pip install -r requirements.txt
 streamlit run app.py
+
+## 튜토리얼
+
+
+<img src="https://github.com/wiznetmaker/GPT_maker/assets/112835087/70492776-b496-447e-902e-70de4d890d9f" width="50%" height="auto">
+<img src="https://github.com/wiznetmaker/GPT_maker/assets/112835087/4b5bb1a4-7ec6-40c2-85d7-9f3bac65f628" width="50%" height="auto">
+
