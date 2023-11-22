@@ -48,7 +48,7 @@ cd gptmaker
 pip install -r requirements.txt
 streamlit run app.py
 ```
-## 튜토리얼
+## 전체 실행
 1. [OpenAI API 홈페이지](https://openai.com/blog/openai-api)에 접속을해서 신용카드 등록  
 <img src="https://github.com/wiznetmaker/GPT_maker/assets/112835087/70492776-b496-447e-902e-70de4d890d9f" width="50%" height="auto">
 
