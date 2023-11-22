@@ -52,10 +52,10 @@ streamlit run app.py
 1. [OpenAI API 홈페이지](https://openai.com/blog/openai-api)에 접속을해서 신용카드 등록  
 <img src="https://github.com/wiznetmaker/GPT_maker/assets/112835087/70492776-b496-447e-902e-70de4d890d9f" width="50%" height="auto">
 
-3. API key 생성 (주의 : 한번 발급 후 같은키는 또 생성이 안되니 적어둘것)
+2. API key 생성 (주의 : 한번 발급 후 같은키는 또 생성이 안되니 적어둘것)
 
 
 <img src="https://github.com/wiznetmaker/GPT_maker/assets/112835087/4b5bb1a4-7ec6-40c2-85d7-9f3bac65f628" width="50%" height="auto">
 
-5. 로컬환경에서 설정하기 그대로 실행
-6. API 키란에 API를 입력하고 내용을 입력후 원하는 Task 버튼 실행
+3. 로컬환경에서 설정하기 그대로 실행
+4. API 키란에 API를 입력하고 내용을 입력후 원하는 Task 버튼 실행
