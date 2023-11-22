@@ -47,7 +47,7 @@ OpenAI의 GPT 모델을 활용하여 다양한 텍스트 변환 및 분석 기�
 cd gptmaker
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ## 튜토리얼
 
 
