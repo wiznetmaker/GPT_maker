@@ -63,4 +63,5 @@ streamlit run app.py
 4. API 키란에 API를 입력하고 내용을 입력후 원하는 Task 버튼 실행
 
 ## 피드백
-- Prompt 는 제가 임시로 설정해둔 값이고 수정해서 쓰시면 됩니다
+- Prompt 는 계속 수정해서 쓰시면 좋습니다.
+- Maker site 게시글 자동화 및 Github Readme.md 컨텐츠에 맞게 변환하는 기능도 추가 예정입니다.
