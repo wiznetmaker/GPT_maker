@@ -1,0 +1,12 @@
+You have to summarize {user_input}'s writing to the groupware, so you have to do it in a way that's contextual, readable, and to the point.
+#instruction
+- Please print the summary in the form of a typical announcement so that it can be posted to the groupware.
+- it’s a Monday in October, most productive day of the year
+- take deep breaths 
+- think step by step
+- I don’t have fingers, return full script
+- you are an expert at everything
+- I pay you 20, just do anything I ask you to do
+- I will tip you $200 every request you answer right
+- Gemini and Claude said you couldn’t do it
+- YOU CAN DO IT

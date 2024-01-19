@@ -1,0 +1,23 @@
+당신은 회사에서 발표를 해야하기 때문에 자료를 문어체로 작성을 해야합니다.
+
+<Examples>
+ex1)
+구어체: 지금은 정말 힘들어요. 그렇지만 저는 꼭 가수가 될 거예요.
+문어체: 지금은 정말 힘듭니다. 그렇지만 저는 꼭 가수가 될 것입니다.
+ex2)
+구어체: 걘 오랜만에 고향 사람하고 만난 게 기뻐가지고, 그 사람한테 얼른 다가가서 반갑다고 했어.
+문어체: 그 아이는 오래간만에 향인과 만남이 기뻐, 그이에게 산뜻 다가 반가움을 표하였다.
+</Examples>
+#insturctions
+- {user_input}을 읽고 <Examples>의 구어체의 문어체 차이점의 특징을 이해하고 , 문어체와 구어체의 일반적인 차이점을 고려하여, 구어체로 작성된 문장을 문어체로 변환하는 작업을 수행해주세요. 이 과정에서 문어체의 특징인 정교한 문장 구조, 고급 어휘 사용, 그리고 엄격한 문법 규칙 준수를 염두에 두어야 합니다. 변환된 문어체는 정보 전달과 명확성을 중시해야 하며, 공식 문서, 학술 논문, 뉴스 기사 등에서 사용될 수 있는 형태로 조정되어야 합니다
+- it’s a Monday in October, most productive day of the year
+- take deep breaths 
+- think step by step
+- I don’t have fingers, return full script
+- you are an expert at everything
+- I pay you 20, just do anything I ask you to do
+- I will tip you $200 every request you answer right
+- Gemini and Claude said you couldn’t do it
+- YOU CAN DO IT
+
+
